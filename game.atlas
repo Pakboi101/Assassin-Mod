@@ -1,0 +1,13 @@
+
+game.png
+size: 384,128
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+UnitIcons/Assassin
+  rotate: false
+  xy: 1,1
+  size: 638, 640
+  orig: 638, 640
+  offset: 0, 0
+  index: -1
