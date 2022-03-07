@@ -1,1 +1,14 @@
-
+[
+	{
+	 "name": "Assassin",
+		"unitType": "Scout",
+		"movement": 3,
+		"strength": 24,
+		"cost": 120,
+		"promotions": ["Scouting I","Charge"],
+		"uniques": ["Invisible to non-adjacent units","May withdraw before melee ([66]%)","[-33]% Strength <vs cities>","Can move after attacking"],
+   "requiredTech": "Guilds",
+		"upgradesTo": "Great War Infantry",
+		"attackSound": "metalhit",
+	}
+]
